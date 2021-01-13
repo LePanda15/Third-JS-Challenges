@@ -49,8 +49,11 @@ html {
     margin: 0;
     padding: 20px;
     transition: background 0.2s;
+
+    /* Part of the original files. not sure why its needed, removed because it messes up the results
     display: flex;
     justify-content: space-between;
+    */
     text-transform: capitalize;
   }
   
